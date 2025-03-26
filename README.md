@@ -12,6 +12,7 @@ Midterm Project Instructions – PHP and MySQL
 Zippy Used Autos - PHP Web Application
 
 This is a PHP web application for Zippy Used Autos, an online platform to browse and manage used vehicle listings. The project follows the MVC (Model-View-Controller) design pattern to ensure separation of concerns and maintainable code structure.
+
 Features
 
     Public Vehicle Listings: Displays all vehicles, sorted by price (descending) with the ability to filter by make, type, or class.
